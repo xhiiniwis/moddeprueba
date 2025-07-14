@@ -1,9 +1,0 @@
-dir = "moddeprueba";
-name = "Mod de Prueba - Sistema de Spawn";
-picture = ""; // Ruta a imagen del mod (opcional)
-actionName = "Website"; // Texto del botón de acción (opcional)
-action = ""; // URL del sitio web (opcional)
-description = "Mod de prueba que añade un sistema de selección de spawn al respawnear";
-version = "1.0.0";
-author = "ModDePrueba";
-authorID = "0"; // Steam ID del autor (opcional)
